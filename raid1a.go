@@ -19,5 +19,6 @@ func Raid1a(w, h int) {
 				}
 			}
 		}
+		z01.PrintRune(10)
 	}
 }
